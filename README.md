@@ -129,7 +129,6 @@ AR-Smart-Stock-Manager/
 
 ## 📸 Demo
 
-📌 *Add screenshots and demo video here*
 <img width="386" height="631" alt="image" src="https://github.com/user-attachments/assets/93a36ad1-4258-4102-b277-2e969fb91e81" />
 
 
